@@ -1,24 +1,29 @@
 {
-  "73": {
-    "origin": {
-    "name": "mj1_912x910x634x8b_origCT.raw",
-    "url": "https://www.digitalrocksportal.org/projects/73/images/73261/download/",
-    "image_type": "8-bit",
-    "width": 912,
-    "height": 910,
-    "number_of_slices": 634,
-    "byte_order": "big-endian",
-    "voxel_size": 4.54
-    },
-    "origin": {
-      "name": "MJ1_501x482x600.dat",
-      "url": "https://www.digitalrocksportal.org/projects/73/images/73262/download/",
-      "image_type": "8-bit",
-      "width": 501,
-      "height": 482,
-      "number_of_slices": 600,
-      "byte_order": "little-endian",
-      "voxel_size": 4.54
-    }
+  "73":
+  {
+    "origin":
+    [
+      {
+        "name": "mj1_912x910x634x8b_origCT.raw",
+        "url": "https://www.digitalrocksportal.org/projects/73/images/73261/download/",
+        "image_type": "8-bit",
+        "width": 912,
+        "height": 910,
+        "number_of_slices": 634,
+        "byte_order": "big-endian",
+        "voxel_size": 4.54
+      },
+      {
+        "name": "MJ1_501x482x600.dat",
+        "url": "https://www.digitalrocksportal.org/projects/73/images/73262/download/",
+        "image_type": "8-bit",
+        "width": 501,
+        "height": 482,
+        "number_of_slices": 600,
+        "byte_order": "little-endian",
+        "voxel_size": 4.54
+      }
+    ],
+    "analysis": []
   }
 }
